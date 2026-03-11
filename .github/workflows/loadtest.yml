@@ -9,7 +9,7 @@ permissions:
 env:
   # For AZURE_WEBAPP_NAME enter just the name, not the full URL.
   RESOURCE_GROUP: rg-az-2006
-  LOAD_TEST_RESOURCE: myloadtest435
+  LOAD_TEST_RESOURCE: az2006loadtest1
   AZURE_WEBAPP_NAME: madhaviwebapp708795
 
 jobs:
